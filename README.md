@@ -7,4 +7,4 @@ Loading and cleaning train and test data.
 Adding new features
 
 3. validation.ipynb    
-Model learning and validation
+Model fitting and validation
