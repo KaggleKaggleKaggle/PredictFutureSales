@@ -1,7 +1,7 @@
 # PredictFutureSales
 
 1. prepare-data.ipynb    
-Loading and cleaning train and test data.
+Prepairing train / test datasets
 
 2. add-features.ipynb    
 Adding new features
